@@ -1,0 +1,8 @@
+.error{
+    background-color: rgb(240, 59, 59);
+    color: rgba(255, 208, 208, 0.877);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
